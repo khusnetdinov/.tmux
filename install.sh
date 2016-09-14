@@ -5,7 +5,7 @@ function die() {
   exit 1
 }
 
-git clone --recursive https:https://github.com/khusnetdinov/.tmux \
+git clone --recursive https://github.com/khusnetdinov/.tmux \
   || die "Could not clone repository to ${HOME}/.tmux"
 
 brew install tmux || die "Could not install tmux to OS"
