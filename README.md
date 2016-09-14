@@ -3,6 +3,9 @@ Provision tmux with custom settings.
 
 ## Pre-requisites
 
+This tmux distribution must be installed with [.janus](https://github.com/khusnetdinov/.janus).
+Stand alone installation has no preinstaled theme (Tomorrow Night) and fonts (Meslo Powershell). 
+
 You need install [brew](http://brew.sh/)
 
 ## Installation
